@@ -1,0 +1,27 @@
+
+.containerQuemSomos{
+    margin-top: 30vh;
+}
+
+.containerQuemSomos img{
+    width: 100%;
+}
+
+.containerQuemSomosImage{
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.2);
+    padding: 40px;
+    height: 70vh;
+    width: 30vw;
+}
+
+.containerQuemSomosText{
+    background-color: hsl(346, 57%, 47%);
+    padding: 40px;
+    height: 73vh;
+    width: 30vw;
+}
+
+p{
+    max-width: 300px;
+    max-height: 100px;
+}

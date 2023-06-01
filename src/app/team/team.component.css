@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.d-flex {
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+}
+
+.a {
+  margin-top: 2rem;
+  font-family: "Inter", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  margin-left: 5rem;
+}
+
+.luccas {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.raquel {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.thiago {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.rafael {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.denilson {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.p {
+  font-size: 18px;
+}
+
+.foto {
+  margin-top: 30rem;
+  margin-left: 5rem;
+  width: 400px;
+}
+
+.img-fluid {
+  width: 200px;
+  height: 200px;
+}
+
+.bolaDosCaras {
+  background-color: gray;
+  border-radius: 50%;
+  width: 45%;
+  padding: 40px;
+}
+
+.membro {
+  width: 9.375rem;
+  height: 9.375rem;
+}
